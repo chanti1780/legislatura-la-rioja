@@ -63,7 +63,7 @@ body {
 .banider {
   height: 30vw;
   width: 100%;
-  background: url(/imagenes/02-banner/banner-40d-1.jpg) no-repeat center / cover;
+  background: url(imagenes/02-banner/banner-40d-1.jpg) no-repeat center / cover;
   overflow: hidden;
   position: relative;
 }
